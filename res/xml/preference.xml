@@ -7,7 +7,7 @@
         />
     <EditTextPreference android:title="Message header" android:summary="Text displayed in the share location message" 
         android:key="messageHeader"
-        android:defaultValue="Kliknij na jeden z poniższych linków aby zobaczyć moją pozycję na mapie:"
+        android:defaultValue="my location is:"
         />
     
 
